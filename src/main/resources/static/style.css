@@ -48,8 +48,8 @@ body {
 input {
     padding-left: 10px;
     outline: none;
-    border-radius: 10px; /* Rounded corners */
-    border: 1px solid #80cbc4; /* Teal border */
+    border-radius: 10px;
+    border: 1px solid #80cbc4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,7 +62,7 @@ h1 {
 }
 
 a {
-    color: #004d40; /* Dark teal */
+    color: #004d40;
 }
 
 button {
@@ -74,26 +74,26 @@ button {
     white-space: nowrap;
     vertical-align: middle;
     padding: 0.6rem 1rem;
-    border-radius: 10px; /* Rounded corners */
+    border-radius: 10px;
     transition: all 0.2s ease-in-out;
     cursor: pointer;
     min-height: 38px;
 }
 
 button.default {
-    background-color: #b2dfdb; /* Light teal */
-    color: #004d40; /* Dark teal */
+    background-color: #b2dfdb;
+    color: #004d40;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
 }
 
 button.primary {
-    background-color: #00796b; /* Dark teal */
+    background-color: #00796b;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
 
 button.accent {
-    background-color: #004d40; /* Darker teal */
+    background-color: #004d40;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.12);
     color: #fff;
 }
@@ -103,9 +103,9 @@ button.accent {
 }
 
 .username-page-container {
-    background: #ffffff; /* White background */
+    background: #ffffff;
     box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 15px;
     width: 100%;
     max-width: 500px;
     display: inline-block;
@@ -135,18 +135,18 @@ button.accent {
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #ffffff; /* White background */
+    background-color: #ffffff;
     box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
     margin-top: 30px;
     height: calc(100% - 60px);
     max-height: 600px;
     position: relative;
-    border-radius: 15px; /* Rounded corners */
+    border-radius: 15px;
 }
 
 #chat-page ul {
     list-style-type: none;
-    background-color: #ffffff; /* White background */
+    background-color: #ffffff;
     margin: 0;
     overflow: auto;
     overflow-y: scroll;
@@ -162,7 +162,7 @@ button.accent {
     line-height: 1.5rem;
     padding: 10px 20px;
     margin: 0;
-    border-bottom: 1px solid #e0f2f1; /* Light teal border */
+    border-bottom: 1px solid #e0f2f1;
 }
 
 #chat-page ul li p {
@@ -196,12 +196,12 @@ button.accent {
     vertical-align: middle;
     font-size: 18px;
     line-height: 42px;
-    color: #ffffff; /* White text */
+    color: #ffffff;
     text-align: center;
-    border-radius: 50%; /* Circular avatar */
+    border-radius: 50%;
     font-style: normal;
     text-transform: uppercase;
-    background-color: #004d40; /* Dark teal background */
+    background-color: #004d40;
 }
 
 #chat-page .chat-message span {
@@ -216,8 +216,8 @@ button.accent {
 #messageForm .input-group input {
     float: left;
     width: calc(100% - 85px);
-    border-radius: 20px; /* Rounded corners */
-    border: 1px solid #80cbc4; /* Teal border */
+    border-radius: 20px;
+    border: 1px solid #80cbc4;
 }
 
 #messageForm .input-group button {
@@ -225,8 +225,8 @@ button.accent {
     width: 80px;
     height: 38px;
     margin-left: 5px;
-    border-radius: 20px; /* Rounded corners */
-    background-color: #00796b; /* Dark teal */
+    border-radius: 20px;
+    background-color: #00796b;
     color: #fff;
 }
 
@@ -234,9 +234,9 @@ button.accent {
     text-align: center;
     padding: 15px;
     border-bottom: 1px solid #ececec;
-    background-color: #004d40; /* Dark teal background */
-    color: #ffffff; /* White text */
-    border-radius: 15px 15px 0 0; /* Rounded top corners */
+    background-color: #004d40;
+    color: #ffffff;
+    border-radius: 15px 15px 0 0;
 }
 
 .chat-header h2 {

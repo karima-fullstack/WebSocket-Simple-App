@@ -1,1 +1,1 @@
-Basic Chat app using webSockets
+# Spring Boot chat app using WebSocket
